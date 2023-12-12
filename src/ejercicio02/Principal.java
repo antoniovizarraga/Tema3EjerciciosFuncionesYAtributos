@@ -3,7 +3,6 @@ package ejercicio02;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-import ejercicio01.Operaciones;
 
 public class Principal {
 
